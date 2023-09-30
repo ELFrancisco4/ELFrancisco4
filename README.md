@@ -1,31 +1,31 @@
-
 <h1 align="center">Guten Tag, Ich bin Root@Kali</h1>
-<h3 align="center">A passionate frontend developer and Cyber Security Enthusiast from Nigeria</h3>
+<h3 align="center">Security Focused Software Engineer | Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfrancisco4&label=Profile%20views&color=0e75b6&style=flat" alt="elfrancisco4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elfrancisco4" alt="elfrancisco4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/el_francisco4" target="blank"><img src="https://img.shields.io/twitter/follow/el_francisco4?logo=twitter&style=for-the-badge" alt="el_francisco4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/EL_Francisco4" target="blank"><img src="https://img.shields.io/twitter/follow/el_francisco4?logo=twitter&style=for-the-badge" alt="el_francisco4" /></a> </p>
 
-- 🔭 I’m currently working on **React News Application**
+- 🔭 Currently contributing to Open-Source UI component Lib -> https://react.semantic-ui.com/
 
-- 🌱 I’m currently learning **React, Linux, Solidity, German Language**
+- 🤝 Building Community @Reveal
 
-- 👯 I’m looking to collaborate on **React News Application**
+- 📝 DevRel Content -> https://0xkali.hashnode.dev/
+  
+- 👨‍💻 Cybersec content -> https://medium.com/@offiongfrancis14
+  
+- 📫 Reach me -> offiongfrancis14@gmail.com
 
-- 🤝 I’m looking for help with **React News Application**
-
-- 💬 Ask me about **Javascript, React, Cryptography**
-
-- 📫 How to reach me **offiongfrancis14@gmail.com**
+- 📄 Professional Profile -> https://www.linkedin.com/in/francis-offiong-aa032120a/
 
 - ⚡ Fun fact **Hacking is the new gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/el_francisco4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_francisco4" height="30" width="40" /></a>
+<a href="https://twitter.com/EL_Francisco4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_francisco4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@offiongfrancis14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@offiongfrancis14" height="30" width="40" /></a>
+<a href="https://medium.com/@offiongfrancis14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@offiongfrancis14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfrancisco4&show_icons=true&locale=en" alt="elfrancisco4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfrancisco4&" alt="elfrancisco4" /></p>
-
