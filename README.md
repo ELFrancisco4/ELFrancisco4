@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/EL_Francisco4" target="blank"><img src="https://img.shields.io/twitter/follow/el_francisco4?logo=twitter&style=for-the-badge" alt="el_francisco4" /></a> </p>
 
-- 🔭 Currently contributing to Open-Source project WASP-> https://github.com/wasp-lang/wasp/
+- 🔭 Currently doing #20DaysOfReact Challenge on Twitter
 
 - 🤝 Building Community @Reveal
 
