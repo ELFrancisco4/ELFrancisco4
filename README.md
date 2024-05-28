@@ -1,5 +1,5 @@
 <h1 align="center">Guten Tag, Ich bin Root@Kali</h1>
-<h3 align="center">Security Focused Software Engineer | Ethical Hacker</h3>
+<h3 align="center">Security Focused Software Engineer | Ethical Hacker | Mobile Developer | Golang Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfrancisco4&label=Profile%20views&color=0e75b6&style=flat" alt="elfrancisco4" /> </p>
 
@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/EL_Francisco4" target="blank"><img src="https://img.shields.io/twitter/follow/el_francisco4?logo=twitter&style=for-the-badge" alt="el_francisco4" /></a> </p>
 
-- 🔭 Currently doing #20DaysOfReact Challenge on Twitter
-
-- 🤝 Building Community @Reveal
-
-- 📝 DevRel Content -> https://0xkali.hashnode.dev/
+- Frontend and Mobile developer @Orion Resources Industrial
   
 - 👨‍💻 Cybersec content -> https://medium.com/@offiongfrancis14
   
